@@ -16,7 +16,7 @@ FramerManager是UE5.7的一个插件模块，专门用于管理基于帧（Frame
 
 FramerManager在紧随TimerManager的TickableGameObjects Time期间执行，示例图如下：
 
-![image.png](Resources\FramerManager.jpg)
+![image.png](https://github.com/average17/FramerManager/tree/main/Resources/FramerManager.jpg)
 
 ***
 
