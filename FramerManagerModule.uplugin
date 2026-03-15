@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.3.5",
+	"FriendlyName": "Framer Manager",
+	"Description": "A frame-based manager that provides thread-safe, frame-counted callbacks. Similar to FTimerManager but operates on frames instead of time. Supports pause/resume, important framers, budget control, and cross-thread command queuing.",
+	"Category": "Gameplay",
+	"CreatedBy": "dai",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FramerManagerModule",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

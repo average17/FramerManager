@@ -1,0 +1,16 @@
+#folders
+
+.vs/
+.vscode/
+.idea/
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+ThirdParty/
+Build/
+
+#files
+
+*.vscode
+*.pyc
